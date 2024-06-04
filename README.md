@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faahvor
-- 👀 I am an upcoming software engineer
-- i am currently a student studying software development 
-- 💞️ I’m looking to collaborate on ...fullstack development 
+- 👀 I am a Software engineer
+- 💞️ I’m looking to collaborate on ...fullstack development jobs
+- i love Coding ,that is literally my hobby
 - 📫 How to reach me tinafavour2018@gmail.com
 
 <!---
